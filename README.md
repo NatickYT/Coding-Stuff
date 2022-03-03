@@ -1,2 +1,2 @@
 # Coding-Stuff
-Stuff About Coding/Programming
+- Stuff About Coding/Programming
